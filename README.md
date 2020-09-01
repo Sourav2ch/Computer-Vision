@@ -1,3 +1,3 @@
 # Computer-Vision
-Cifar 10
+Cifar 10,
 Mask Detection
