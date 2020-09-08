@@ -1,2 +1,1 @@
-# Computer-Vision,
-Mask Detection
+Face mask detec
